@@ -30,7 +30,7 @@ We decided to achieve this goal by creating an Android application that allows u
 
 ![Alt text](./img/explanation.gif?raw=true "Explanation")
 
-1. Image selection - from gallery or take a picture with camera (possible also to select 2 objects
+1. Image selection - from gallery or take a picture with camera (possible also to select 2 objects)
 2. Object marking
 3. Glorify the object
 4. Clear the mark
