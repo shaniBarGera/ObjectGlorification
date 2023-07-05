@@ -5,6 +5,8 @@
 The goal of the project was to create an application that glorifies a specified object within a given image. After the glorification the user should have some sort of ability to “play” with the object by various manipulations on the object.
 We decided to achieve this goal by creating an Android application that allows users to select an image, mark an object in that given image and perform the glorification process. In this case glorifying means blurring the background and magnifying the object. After the object is glorified the user can perform manipulations on the object like scaling and rotating. We also decided to add a bonus option - to allow the user to select two objects at once.  
 
+Check out our website: https://shanibar3.wixsite.com/my-site-3
+
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -25,12 +27,12 @@ We decided to achieve this goal by creating an Android application that allows u
 
 
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
+<!-- Usage Steps -->
+## Usage Steps
 
-![Alt text](./imgs/demo.png?raw=true "Screenshot")
+![Alt text](./img/explanation.gif?raw=true "Explanation")
 
-1. Image selection - from gallery or take a picture with camera (possible also to select 2 objects
+1. Image selection - from gallery or take a picture with camera (possible also to select 2 objects)
 2. Object marking
 3. Glorify the object
 4. Clear the mark
@@ -55,7 +57,7 @@ We decided to achieve this goal by creating an Android application that allows u
 <!-- USAGE EXAMPLES -->
 ## Usage Demo
 
-![Alt text](https://www.youtube.com/watch?v=fLY6LCJ2oKE&list=TLGGAQG9--NydiAwNTA3MjAyMw)
+https://www.youtube.com/watch?v=fLY6LCJ2oKE&list=TLGGAQG9--NydiAwNTA3MjAyMw
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -108,14 +110,12 @@ Project Link: [https://github.com/shaniBarGera/curves-graphing-tool.git](https:/
 <!-- Links -->
 ## Related Links
 
-* Grabcut Algorithm Theory (https://medium.com/analytics-vidhya/computer-vision-understanding-grabcut-
-algorithm-without-the-maths-9a97ef4c5ba3)
+* Grabcut Algorithm Theory (https://medium.com/analytics-vidhya/computer-vision-understanding-grabcut-algorithm-without-the-maths-9a97ef4c5ba3)
 * (https://docs.opencv.org/3.4/d8/d83/tutorial_py_grabcut.html)
 * Chaquopy (https://chaquo.com/chaquopy/)
 * OpenCV (https://opencv.org/about/)
 * Gradle (https://docs.gradle.org/current/userguide/what_is_gradle.html)
-* Chaquopy igraph Issue (https://stackoverflow.com/questions/68977565/trying-to-install-python-igraph-on-
-chaquopy-android-studio)
+* Chaquopy igraph Issue (https://stackoverflow.com/questions/68977565/trying-to-install-python-igraph-on-chaquopy-android-studio)
 * (https://github.com/chaquo/chaquopy/issues/539)
 * Segmentation Algorithms (https://datahacker.rs/top-10-github-papers-semantic-segmentation/)
 * Exif Interface (https://developer.android.com/jetpack/androidx/releases/exifinterface)
