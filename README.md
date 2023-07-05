@@ -5,6 +5,8 @@
 The goal of the project was to create an application that glorifies a specified object within a given image. After the glorification the user should have some sort of ability to “play” with the object by various manipulations on the object.
 We decided to achieve this goal by creating an Android application that allows users to select an image, mark an object in that given image and perform the glorification process. In this case glorifying means blurring the background and magnifying the object. After the object is glorified the user can perform manipulations on the object like scaling and rotating. We also decided to add a bonus option - to allow the user to select two objects at once.  
 
+Check out our website: https://shanibar3.wixsite.com/my-site-3
+
 
 <!-- TABLE OF CONTENTS -->
 <details>
