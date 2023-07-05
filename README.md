@@ -55,7 +55,7 @@ We decided to achieve this goal by creating an Android application that allows u
 <!-- USAGE EXAMPLES -->
 ## Usage Demo
 
-![Alt text](https://www.youtube.com/watch?v=fLY6LCJ2oKE&list=TLGGAQG9--NydiAwNTA3MjAyMw)
+https://www.youtube.com/watch?v=fLY6LCJ2oKE&list=TLGGAQG9--NydiAwNTA3MjAyMw
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
