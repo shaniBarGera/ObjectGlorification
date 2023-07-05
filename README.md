@@ -28,7 +28,7 @@ We decided to achieve this goal by creating an Android application that allows u
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Alt text](./img/explanation.gif?raw=true "Explanation"")
+![Alt text]("./img/explanation.gif?raw=true "Explanation")
 
 1. Image selection - from gallery or take a picture with camera (possible also to select 2 objects
 2. Object marking
