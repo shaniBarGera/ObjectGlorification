@@ -108,14 +108,12 @@ Project Link: [https://github.com/shaniBarGera/curves-graphing-tool.git](https:/
 <!-- Links -->
 ## Related Links
 
-* Grabcut Algorithm Theory (https://medium.com/analytics-vidhya/computer-vision-understanding-grabcut-
-algorithm-without-the-maths-9a97ef4c5ba3)
+* Grabcut Algorithm Theory (https://medium.com/analytics-vidhya/computer-vision-understanding-grabcut-algorithm-without-the-maths-9a97ef4c5ba3)
 * (https://docs.opencv.org/3.4/d8/d83/tutorial_py_grabcut.html)
 * Chaquopy (https://chaquo.com/chaquopy/)
 * OpenCV (https://opencv.org/about/)
 * Gradle (https://docs.gradle.org/current/userguide/what_is_gradle.html)
-* Chaquopy igraph Issue (https://stackoverflow.com/questions/68977565/trying-to-install-python-igraph-on-
-chaquopy-android-studio)
+* Chaquopy igraph Issue (https://stackoverflow.com/questions/68977565/trying-to-install-python-igraph-on-chaquopy-android-studio)
 * (https://github.com/chaquo/chaquopy/issues/539)
 * Segmentation Algorithms (https://datahacker.rs/top-10-github-papers-semantic-segmentation/)
 * Exif Interface (https://developer.android.com/jetpack/androidx/releases/exifinterface)
