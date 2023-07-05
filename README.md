@@ -25,8 +25,8 @@ We decided to achieve this goal by creating an Android application that allows u
 
 
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
+<!-- Usage Steps -->
+## Usage Steps
 
 ![Alt text](./img/explanation.gif?raw=true "Explanation")
 
